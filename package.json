@@ -1,0 +1,27 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aayush5154/backend-chaiorcode-.git"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Aayush Vijay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aayush5154/backend-chaiorcode-/issues"
+  },
+  "homepage": "https://github.com/Aayush5154/backend-chaiorcode-#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
